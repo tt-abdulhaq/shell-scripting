@@ -18,7 +18,7 @@ It demonstrates:
 **Usage:**
 ```bash
 chmod +x cal.sh
-./cal.sh
+./cal.sh```
 
 
 ### 1. `number_classify.sh`
