@@ -18,7 +18,8 @@ It demonstrates:
 **Usage:**
 ```bash
 chmod +x cal.sh
-./cal.sh```
+./cal.sh 
+```
 
 
 ### 1. `number_classify.sh`
@@ -34,3 +35,4 @@ It demonstrates:
 ```bash
 chmod +x number_classify.sh
 ./number_classify.sh
+```
