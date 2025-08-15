@@ -22,7 +22,7 @@ chmod +x cal.sh
 ```
 
 
-### 1. `number_classify.sh`
+### 2. `number_classify.sh`
 **Description:**  
 A script that determines whether a given integer is positive, negative, or zero, and whether it is even or odd.  
 It demonstrates:
